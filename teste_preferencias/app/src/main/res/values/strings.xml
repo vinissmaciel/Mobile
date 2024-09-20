@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">teste_preferencias</string>
+    <string name="texto_inter">Texto de intercionalização</string>
+    <string name="botao">Trocar lingua</string>
+</resources>

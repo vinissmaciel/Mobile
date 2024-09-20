@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">teste_preferencias</string>
+    <string name="texto_inter">Intertionalization text</string>
+    <string name="botao">Change language</string>
+</resources>
